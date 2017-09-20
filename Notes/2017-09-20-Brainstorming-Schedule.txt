@@ -1,0 +1,43 @@
+2017-09-20
+
+Disease Ecology meeting w/Erin
+
+Paper
+- questions
+- criticisms
+- methods, results, their interpretation
+- what could be done from there?
+- apply this to your research how?
+
+Topics
+Review about disease ecology (generally)
+Landscape ecology and disease (heterogeneity; fragmentation/metapopulations)
+Biodiversity: species richness and susceptibility (dilution vs amplification)
+Abiotic (field?)/anthropogenic factors
+Biodiversity: community structure/interactions (predation, competition) and disease - modeling papers (network analyses)?
+Biodiversity: genetic diversity (MHC; immune response; other genes??)
+Phylogenetics/invasion history/naive hosts?
+Microbiome and disease (chytrid, white nose sydrome, fungal snake??)
+Biodiversity: diversity of parasites (lower prevalence and number of parasites per individual)
+Genomics and experimental infection - genetic component to susceptibility 
+
+Biodiversity and disease (virulence, prevalence...)
+	- species richness and susceptibility (dilution vs amplification)
+	- genetic diversity (MHC; immune response; other genes??)
+	- diversity of parasites (lower prevalence and number of parasites per individual)
+	- community structure/interactions (predation, competition) and disease - modeling papers (network analyses)?
+
+
+Schedule
+
+9/20 Brainstorm, scheduling
+9/27 Topic: Review about disease ecology ; Paper:
+10/4 Topic: Landscape Ecology  ; Paper:
+10/11 Topic: Species Richness and susceptibility; Paper:
+10/18 Topic: Abiotic/anthropogenic factors; Paper:
+10/25 Topic: Community structure/interactions; Paper:
+11/1 Topic: Genetic diversity; Paper:
+11/8 Topic: Phylogenetics and invasion series; Paper:
+11/15 Topic: ; Paper:
+11/29 Topic: ; Paper:
+12/6 Topic: ; Paper:
