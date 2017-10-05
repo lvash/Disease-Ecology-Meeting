@@ -16,7 +16,7 @@ Here we will include notes from our weekly disease ecology discussions. Notes ma
 ### Table of contents for 60 entries (Format is *Page: Date(with year-month-day). Title*)        
 * [Page 1: 2017-09-27](#id-section1) Schedule and Topics
 * [Page 2: 2017-09-27](#id-section2) Overview of disease ecology
-* [Page 3:](#id-section3).
+* [Page 3:](#id-section3) Landscape Ecology
 * [Page 4:](#id-section4).
 * [Page 5:](#id-section5).
 * [Page 6:](#id-section6).
@@ -158,7 +158,11 @@ Lively, C. M., J. C. de Roode, M. A. Duffy, A. L. Graham, and B. Koskella. 2014.
 
 ------
 <div id='id-section3'/>
-### Page 3:
+### Page 3: 2017-10-05 Landscape Ecology
+
+### Attendees: 
+
+#### Paper: Ostfeld, R. S., G. E. Glass, and F. Keesing. 2005. Spatial epidemiology: An emerging (or re-emerging) discipline. Trends in Ecology and Evolution 20:328–336.
 
 ------
 <div id='id-section4'/>
