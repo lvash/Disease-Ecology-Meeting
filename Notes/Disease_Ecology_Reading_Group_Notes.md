@@ -113,7 +113,7 @@ Biodiversity and disease (virulence, prevalence...)
 
 9/20 Brainstorm, scheduling
 9/27 Topic: Review about disease ecology ; Paper: Lively et al. 2014 AmNat
-10/4 Topic: Landscape Ecology  ; Paper:
+10/4 Topic: Landscape Ecology; Paper: Ostfeld et al. 2005 Trends in Ecology and Evolution
 10/11 Topic: Species Richness and susceptibility; Paper:
 10/18 Topic: Abiotic/anthropogenic factors; Paper:
 10/25 Topic: Community structure/interactions; Paper:
@@ -160,9 +160,27 @@ Lively, C. M., J. C. de Roode, M. A. Duffy, A. L. Graham, and B. Koskella. 2014.
 <div id='id-section3'/>
 ### Page 3: 2017-10-05 Landscape Ecology
 
-### Attendees: 
+### Attendees: Ash, Lauren; Burnham, Alex; Keller, Erin
 
 #### Paper: Ostfeld, R. S., G. E. Glass, and F. Keesing. 2005. Spatial epidemiology: An emerging (or re-emerging) discipline. Trends in Ecology and Evolution 20:328–336.
+
+#### Notes:
+
+Sam's (and Alex) work has dealt with distance and they found that colonies of bees closer together had more similar disease loads and prevalences. Not true for all pathogens - only some! 
+
+Lauren's anthrax work used modeling to identify incidences of human anthrax cases and ecological variables (bush meat, bioclim data) and found that the mixed models (bioclim and ecological [bush meat, calcium in soil, density]) best predicted incidences.
+
+Incidence does not necessarily mean risk!
+- Reported disease not necessarily where disease was acquired
+- Immunity after exposure can reduce/change incidence
+
+Morand’s I – statistic to indicate if there is spatial autocorrelation 
+-1 to 1
+0 don’t have spatial autocorrelation; no pattern 
+1 = positive spatial autocorrelation; nested populations are more similar than further away
+-1 = negative spatial autocorrelation; no similar values next to each other (checkerboard)
+
+
 
 ------
 <div id='id-section4'/>
